@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\HomeWorkWeek8\Methods\bin\Debug\net6.0\Methods.exe
+C:\Users\DELL\source\repos\HomeWorkWeek8\Methods\bin\Debug\net6.0\Methods.deps.json
+C:\Users\DELL\source\repos\HomeWorkWeek8\Methods\bin\Debug\net6.0\Methods.runtimeconfig.json
+C:\Users\DELL\source\repos\HomeWorkWeek8\Methods\bin\Debug\net6.0\Methods.dll
+C:\Users\DELL\source\repos\HomeWorkWeek8\Methods\bin\Debug\net6.0\Methods.pdb
+C:\Users\DELL\source\repos\HomeWorkWeek8\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\HomeWorkWeek8\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\HomeWorkWeek8\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+C:\Users\DELL\source\repos\HomeWorkWeek8\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\HomeWorkWeek8\Methods\obj\Debug\net6.0\Methods.dll
+C:\Users\DELL\source\repos\HomeWorkWeek8\Methods\obj\Debug\net6.0\refint\Methods.dll
+C:\Users\DELL\source\repos\HomeWorkWeek8\Methods\obj\Debug\net6.0\Methods.pdb
+C:\Users\DELL\source\repos\HomeWorkWeek8\Methods\obj\Debug\net6.0\Methods.genruntimeconfig.cache
+C:\Users\DELL\source\repos\HomeWorkWeek8\Methods\obj\Debug\net6.0\ref\Methods.dll

@@ -8,18 +8,11 @@ namespace HomeWorkWeek8
 {
     internal class Manager : Employee
     {
-        public Employee it;
-        public Employee ik;
-        public Employee accounting;
-        public  Employee salesman;
+        public Employee[] employees;
         
-       
-
-        public Manager(string name, int age, string graduation, int experience, double salary, int manage) : base(name, age, graduation, experience, salary)
+        public Manager(string name, int age, string graduation, int experience, double salary, Employee[] employees) : base(name, age, graduation, experience, salary)
         {
-
-            
-
+            this.employees = employees;
         }
     }
 }
