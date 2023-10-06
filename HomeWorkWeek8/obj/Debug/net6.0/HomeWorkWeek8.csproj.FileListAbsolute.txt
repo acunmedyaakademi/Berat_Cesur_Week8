@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\HomeWorkWeek8\HomeWorkWeek8\obj\Debug\net6.0\HomeWorkWeek8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\HomeWorkWeek8\HomeWorkWeek8\obj\Debug\net6.0\HomeWorkWeek8.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\HomeWorkWeek8\HomeWorkWeek8\obj\Debug\net6.0\HomeWorkWeek8.AssemblyInfo.cs
+C:\Users\DELL\source\repos\HomeWorkWeek8\HomeWorkWeek8\obj\Debug\net6.0\HomeWorkWeek8.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\HomeWorkWeek8\HomeWorkWeek8\bin\Debug\net6.0\HomeWorkWeek8.exe
+C:\Users\DELL\source\repos\HomeWorkWeek8\HomeWorkWeek8\bin\Debug\net6.0\HomeWorkWeek8.deps.json
+C:\Users\DELL\source\repos\HomeWorkWeek8\HomeWorkWeek8\bin\Debug\net6.0\HomeWorkWeek8.runtimeconfig.json
+C:\Users\DELL\source\repos\HomeWorkWeek8\HomeWorkWeek8\bin\Debug\net6.0\HomeWorkWeek8.dll
+C:\Users\DELL\source\repos\HomeWorkWeek8\HomeWorkWeek8\bin\Debug\net6.0\HomeWorkWeek8.pdb
+C:\Users\DELL\source\repos\HomeWorkWeek8\HomeWorkWeek8\obj\Debug\net6.0\HomeWorkWeek8.dll
+C:\Users\DELL\source\repos\HomeWorkWeek8\HomeWorkWeek8\obj\Debug\net6.0\refint\HomeWorkWeek8.dll
+C:\Users\DELL\source\repos\HomeWorkWeek8\HomeWorkWeek8\obj\Debug\net6.0\HomeWorkWeek8.pdb
+C:\Users\DELL\source\repos\HomeWorkWeek8\HomeWorkWeek8\obj\Debug\net6.0\HomeWorkWeek8.genruntimeconfig.cache
+C:\Users\DELL\source\repos\HomeWorkWeek8\HomeWorkWeek8\obj\Debug\net6.0\ref\HomeWorkWeek8.dll
